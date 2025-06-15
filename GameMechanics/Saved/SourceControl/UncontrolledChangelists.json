@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/GameMechanics/GameMechanics/Content/Blueprints/01_DoorBlueprint/BP_Door1.uasset",
+				"D:/Projects/GameMechanics/GameMechanics/Content/Blueprints/01_DoorBlueprint/WI_IntersctionPrompt.uasset",
+				"D:/Projects/GameMechanics/GameMechanics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/C7/GNI3I0L52FLI2GI2ZD6LXV.uasset",
+				"D:/Projects/GameMechanics/GameMechanics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/9C/QNCUKRCRSZFAA88346JSBQ.uasset",
+				"D:/Projects/GameMechanics/GameMechanics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N9/TFNLBCLDBRLUG72YYZLFA6.uasset",
+				"D:/Projects/GameMechanics/GameMechanics/Content/Blueprints/02_HatPickupBlueprint/BP_HatPickup.uasset",
 				"D:/Neelu/Projects/Unreal/Practice/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Neelu/Projects/Unreal/Practice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Neelu/Projects/Unreal/Practice/Content/Blueprints/01_DoorBlueprint/BP_Door.uasset",
